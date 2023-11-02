@@ -1,2 +1,2 @@
 # aigp-docker
-docker for aigp
+docker for webui
